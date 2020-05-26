@@ -1,0 +1,1160 @@
+./prod_cons 1
+
+Thread 0 > line 0 = word20a0 word20a1 word20a2 word20a3 word20a4 word20a5 word20a6 word20a7 word20a8 word20a9 word20a10Thread 0 > token 0 = word20a0
+Thread 0 > token 1 = word20a1
+Thread 0 > token 2 = word20a2
+Thread 0 > token 3 = word20a3
+Thread 0 > token 4 = word20a4
+Thread 0 > token 5 = word20a5
+Thread 0 > token 6 = word20a6
+Thread 0 > token 7 = word20a7
+Thread 0 > token 8 = word20a8
+Thread 0 > token 9 = word20a9
+Thread 0 > token 10 = word20a10
+Thread 0 > After tokenizing, my line = word20a0
+Thread 0 > line 1 = Thread 0 > After tokenizing, my line =
+total time:0.000049
+
+
+./prod_cons 2
+Thread 0 > line 0 = word20a0 word20a1 word20a2 word20a3 word20a4 word20a5 word20a6 word20a7 word20a8 word20a9 word20a10Thread 0 > token 0 = word20a0
+Thread 0 > token 1 = word20a1
+Thread 0 > token 2 = word20a2
+Thread 0 > token 3 = word20a3
+Thread 0 > token 4 = word20a4
+Thread 0 > token 5 = word20a5
+Thread 0 > token 6 = word20a6
+Thread 0 > token 7 = word20a7
+Thread 0 > token 8 = word20a8
+Thread 0 > token 9 = word20a9
+Thread 0 > token 10 = word20a10
+Thread 0 > After tokenizing, my line = word20a0
+Thread 0 > line 1 = Thread 0 > After tokenizing, my line =
+total time:0.000070
+
+./prod_cons 3
+Thread 0 > line 0 = word20a0 word20a1 word20a2 word20a3 word20a4 word20a5 word20a6 word20a7 word20a8 word20a9 word20a10Thread 0 > token 0 = word20a0
+Thread 0 > token 1 = word20a1
+Thread 0 > token 2 = word20a2
+Thread 0 > token 3 = word20a3
+Thread 1 > line 1 = Thread 1 > After tokenizing, my line =
+Thread 0 > token 4 = word20a4
+Thread 0 > token 5 = word20a5
+Thread 0 > token 6 = word20a6
+Thread 0 > token 7 = word20a7
+Thread 0 > token 8 = word20a8
+Thread 0 > token 9 = word20a9
+Thread 0 > token 10 = word20a10
+Thread 0 > After tokenizing, my line = word20a0
+total time:0.000191
+
+./prod_cons 4
+Thread 1 > line 1 = a13 word21a14Thread 1 > token 0 = a13
+Thread 1 > token 1 = word21a14
+Thread 1 > After tokenizing, my line = a13
+Thread 1 > line 3 = word21a0 word21a1 word21a2 word21a3 word21a4 word21a5 word21a6 word21a7 word21a8 word21a9 word21a10 word21a11 word21a12 word21Thread 1 > token 0 = word21a0
+Thread 1 > token 1 = word21a1
+Thread 1 > token 2 = word21a2
+Thread 1 > token 3 = word21a3
+Thread 1 > token 4 = word21a4
+Thread 1 > token 5 = word21a5
+Thread 1 > token 6 = word21a6
+Thread 1 > token 7 = word21a7
+Thread 0 > line 0 = word21a0 word21a1 word21a2 word21a3 word21a4 word21a5 word21a6 word21a7 word21a8 word21a9 word21a10 word21a11 word21a12 word21Thread 0 > token 0 = word21a0
+Thread 0 > token 1 = word21a1
+Thread 0 > token 2 = word21a2
+Thread 0 > token 3 = word21a3
+Thread 0 > token 4 = word21a4
+Thread 1 > token 8 = word21a8
+Thread 1 > token 9 = word21a9
+Thread 1 > token 10 = word21a10
+Thread 1 > token 11 = word21a11
+Thread 1 > token 12 = word21a12
+Thread 1 > token 13 = word21
+Thread 1 > After tokenizing, my line = word21a0
+Thread 1 > line 5 = Thread 1 > After tokenizing, my line =
+Thread 0 > token 5 = word21a5
+Thread 0 > token 6 = word21a6
+Thread 0 > token 7 = word21a7
+Thread 0 > token 8 = word21a8
+Thread 0 > token 9 = word21a9
+Thread 0 > token 10 = word21a10
+Thread 0 > token 11 = word21a11
+Thread 0 > token 12 = word21a12
+Thread 0 > token 13 = word21
+Thread 0 > After tokenizing, my line = word21a0
+Thread 0 > line 2 = Thread 0 > After tokenizing, my line =
+Thread 0 > line 4 = a13 word21a14Thread 0 > token 0 = a13
+Thread 0 > token 1 = word21a14
+Thread 0 > After tokenizing, my line = a13
+total time:0.000171
+
+./prod_cons 5
+Thread 1 > line 1 = Thread 1 > After tokenizing, my line =
+Thread 1 > line 4 = Thread 1 > After tokenizing, my line =
+Thread 2 > line 2 = word21a0 word21a1 word21a2 word21a3 word21a4 word21a5 word21a6 word21a7 word21a8 word21a9 word21a10 word21a11 word21a12 word21Thread 2 > token 0 = word21a0
+Thread 2 > token 1 = word21a1
+Thread 2 > token 2 = word21a2
+Thread 2 > token 3 = word21a3
+Thread 2 > token 4 = word21a4
+Thread 2 > token 5 = word21a5
+Thread 2 > token 6 = word21a6
+Thread 2 > token 7 = word21a7
+Thread 2 > token 8 = word21a8
+Thread 2 > token 9 = word21a9
+Thread 2 > token 10 = word21a10
+Thread 2 > token 11 = word21a11
+Thread 0 > line 0 = word20a0 word20a1 word20a2 word20a3 word20a4 word20a5 word20a6 word20a7 word20a8 word20a9 word20a10Thread 0 > token 0 = word20a0
+Thread 0 > token 1 = word20a1
+Thread 0 > token 2 = word20a2
+Thread 0 > token 3 = word20a3
+Thread 0 > token 4 = word20a4
+Thread 0 > token 5 = word20a5
+Thread 0 > token 6 = word20a6
+Thread 0 > token 7 = word20a7
+Thread 0 > token 8 = word20a8
+Thread 0 > token 9 = word20a9
+Thread 0 > token 10 = word20a10
+Thread 0 > After tokenizing, my line = word20a0
+Thread 0 > line 3 = a13 word21a14Thread 0 > token 0 = a13
+Thread 0 > token 1 = word21a14
+Thread 0 > After tokenizing, my line = a13
+Thread 2 > token 12 = word21a12
+Thread 2 > token 13 = word21
+Thread 2 > After tokenizing, my line = word21a0
+total time:0.000268
+
+./prod_cons 6
+Thread 0 > line 0 = ord2a15 word2a16
+Thread 0 > token 0 = ord2a15
+Thread 0 > token 1 = word2a16
+Thread 0 > After tokenizing, my line = ord2a15
+Thread 0 > line 3 = ord2a15 word2a16
+Thread 0 > token 0 = ord2a15
+Thread 0 > token 1 = word2a16
+Thread 0 > After tokenizing, my line = ord2a15
+Thread 0 > line 6 = Thread 2 > line 2 = Thread 0 > After tokenizing, my line =
+Thread 2 > After tokenizing, my line =
+Thread 2 > line 5 = Thread 2 > After tokenizing, my line =
+Thread 1 > line 1 = word22a0 word22a1 word22a2 word22a3 word22a4 word22a5 word22a6 word22a7 word22a8 word22a9 word22a10 word22a11Thread 1 > token 0 = word22a0
+Thread 1 > token 1 = word22a1
+Thread 1 > token 2 = word22a2
+Thread 1 > token 3 = word22a3
+Thread 1 > token 4 = word22a4
+Thread 1 > token 5 = word22a5
+Thread 1 > token 6 = word22a6
+Thread 1 > token 7 = word22a7
+Thread 1 > token 8 = word22a8
+Thread 1 > token 9 = word22a9
+Thread 1 > token 10 = word22a10
+Thread 1 > token 11 = word22a11
+Thread 1 > After tokenizing, my line = word22a0
+Thread 1 > line 4 = word22a0 word22a1 word22a2 word22a3 word22a4 word22a5 word22a6 word22a7 word22a8 word22a9 word22a10 word22a11Thread 1 > token 0 = word22a0
+Thread 1 > token 1 = word22a1
+Thread 1 > token 2 = word22a2
+Thread 1 > token 3 = word22a3
+Thread 1 > token 4 = word22a4
+Thread 1 > token 5 = word22a5
+Thread 1 > token 6 = word22a6
+Thread 1 > token 7 = word22a7
+Thread 1 > token 8 = word22a8
+Thread 1 > token 9 = word22a9
+Thread 1 > token 10 = word22a10
+Thread 1 > token 11 = word22a11
+Thread 1 > After tokenizing, my line = word22a0
+total time:0.000258
+
+./prod_cons 8
+Thread 3 > line 3 = word21a0 word21a1 word21a2 word21a3 word21a4 word21a5 word21a6 word21a7 word21a8 word21a9 word21a10 word21a11 word21a12 word21Thread 0 > line 0 = word21a0 word21a1 word21a2 word21a3 word21a4 word21a5 word21a6 word21a7 word21a8 word21a9 word21a10 word21a11 word21a12 word21Thread 3 > token 0 = word21a0
+Thread 3 > token 1 = word21a1
+Thread 3 > token 2 = word21a2
+Thread 3 > token 3 = word21a3
+Thread 3 > token 4 = word21a4
+Thread 3 > token 5 = word21a5
+Thread 3 > token 6 = word21a6
+Thread 3 > token 7 = word21a7
+Thread 3 > token 8 = word21a8
+Thread 3 > token 9 = word21a9
+Thread 2 > line 2 = Thread 3 > token 10 = word21a10
+Thread 2 > After tokenizing, my line =
+Thread 2 > line 6 = word21a0 word21a1 word21a2 word21a3 word21a4 word21a5 word21a6 word21a7 word21a8 word21a9 word21a10 word21a11 word21a12 word21Thread 2 > token 0 = word21a0
+Thread 2 > token 1 = word21a1
+Thread 2 > token 2 = word21a2
+Thread 2 > token 3 = word21a3
+Thread 2 > token 4 = word21a4
+Thread 2 > token 5 = word21a5
+Thread 2 > token 6 = word21a6
+Thread 3 > token 11 = word21a11
+Thread 3 > token 12 = word21a12
+Thread 0 > token 0 = word21a0
+Thread 0 > token 1 = word21a1
+Thread 0 > token 2 = word21a2
+Thread 1 > line 1 = a13 word21a14Thread 1 > token 0 = a13
+Thread 1 > token 1 = word21a14
+Thread 1 > After tokenizing, my line = a13
+Thread 1 > line 5 = Thread 1 > After tokenizing, my line =
+Thread 1 > line 9 = word21a0 word21a1 word21a2 word21a3 word21a4 word21a5 word21a6 word21a7 word21a8 word21a9 word21a10 word21a11 word21a12 word21Thread 1 > token 0 = word21a0
+Thread 1 > token 1 = word21a1
+Thread 1 > token 2 = word21a2
+Thread 1 > token 3 = word21a3
+Thread 1 > token 4 = word21a4
+Thread 1 > token 5 = word21a5
+Thread 1 > token 6 = word21a6
+Thread 1 > token 7 = word21a7
+Thread 1 > token 8 = word21a8
+Thread 1 > token 9 = word21a9
+Thread 1 > token 10 = word21a10
+Thread 1 > token 11 = word21a11
+Thread 1 > token 12 = word21a12
+Thread 1 > token 13 = word21
+Thread 1 > After tokenizing, my line = word21a0
+Thread 0 > token 3 = word21a3
+Thread 0 > token 4 = word21a4
+Thread 0 > token 5 = word21a5
+Thread 0 > token 6 = word21a6
+Thread 0 > token 7 = word21a7
+Thread 3 > token 13 = word21
+Thread 2 > token 7 = word21a7
+Thread 0 > token 8 = word21a8
+Thread 0 > token 9 = word21a9
+Thread 0 > token 10 = word21a10
+Thread 2 > token 8 = word21a8
+Thread 3 > After tokenizing, my line = word21a0
+Thread 3 > line 7 = a13 word21a14Thread 3 > token 0 = a13
+Thread 3 > token 1 = word21a14
+Thread 0 > token 11 = word21a11
+Thread 2 > token 9 = word21a9
+Thread 3 > After tokenizing, my line = a13
+Thread 0 > token 12 = word21a12
+Thread 2 > token 10 = word21a10
+Thread 2 > token 11 = word21a11
+Thread 2 > token 12 = word21a12
+Thread 2 > token 13 = word21
+Thread 2 > After tokenizing, my line = word21a0
+Thread 2 > line 10 = a13 word21a14Thread 2 > token 0 = a13
+Thread 2 > token 1 = word21a14
+Thread 2 > After tokenizing, my line = a13
+Thread 3 > line 11 = Thread 3 > After tokenizing, my line =
+Thread 0 > token 13 = word21
+Thread 0 > After tokenizing, my line = word21a0
+Thread 0 > line 4 = a13 word21a14Thread 0 > token 0 = a13
+Thread 0 > token 1 = word21a14
+Thread 0 > After tokenizing, my line = a13
+Thread 0 > line 8 = Thread 0 > After tokenizing, my line =
+total time:0.000912
+
+./prod_cons 12
+Thread 4 > line 4 = word23a0 word23a1 word23a2 word23a3 word23a4 word23a5 word23a6 word23a7 word23a8 word23a9 word23a10 word23a11 word23a12 word23Thread 4 > token 0 = word23a0
+Thread 4 > token 1 = word23a1
+Thread 4 > token 2 = word23a2
+Thread 4 > token 3 = word23a3
+Thread 1 > line 1 = a13 word25a14 word25a15Thread 4 > token 4 = word23a4
+Thread 0 > line 0 = word25a0 word25a1 word25a2 word25a3 word25a4 word25a5 word25a6 word25a7 word25a8 word25a9 word25a10 word25a11 word25a12 word25Thread 4 > token 5 = word23a5
+Thread 3 > line 3 = word3a0 word3a1 word3a2 word3a3 word3a4 word3a5 word3a6 word3a7 word3a8 word3a9 word3a10
+Thread 3 > token 0 = word3a0
+Thread 3 > token 1 = word3a1
+Thread 3 > token 2 = word3a2
+Thread 3 > token 3 = word3a3
+Thread 3 > token 4 = word3a4
+Thread 3 > token 5 = word3a5
+Thread 3 > token 6 = word3a6
+Thread 3 > token 7 = word3a7
+Thread 0 > token 0 = word25a0
+Thread 0 > token 1 = word25a1
+Thread 0 > token 2 = word25a2
+Thread 0 > token 3 = word25a3
+Thread 0 > token 4 = word25a4
+Thread 0 > token 5 = word25a5
+Thread 0 > token 6 = word25a6
+Thread 0 > token 7 = word25a7
+Thread 0 > token 8 = word25a8
+Thread 0 > token 9 = word25a9
+Thread 0 > token 10 = word25a10
+Thread 0 > token 11 = word25a11
+Thread 4 > token 6 = word23a6
+Thread 4 > token 7 = word23a7
+Thread 4 > token 8 = word23a8
+Thread 4 > token 9 = word23a9
+Thread 4 > token 10 = word23a10
+Thread 4 > token 11 = word23a11
+Thread 4 > token 12 = word23a12
+Thread 4 > token 13 = word23
+Thread 4 > After tokenizing, my line = word23a0
+Thread 4 > line 10 = Thread 4 > After tokenizing, my line =
+Thread 3 > token 8 = word3a8
+Thread 3 > token 9 = word3a9
+Thread 5 > line 5 = a13Thread 3 > token 10 = word3a10
+Thread 1 > token 0 = a13
+Thread 1 > token 1 = word25a14
+Thread 1 > token 2 = word25a15
+Thread 1 > After tokenizing, my line = a13
+Thread 1 > line 7 = word23a0 word23a1 word23a2 word23a3 word23a4 word23a5 word23a6 word23a7 word23a8 word23a9 word23a10 word23a11 word23a12 word23Thread 0 > token 12 = word25a12
+Thread 2 > line 2 = Thread 2 > After tokenizing, my line =
+Thread 2 > line 8 = word3a0 word3a1 word3a2 word3a3 word3a4 word3a5 word3a6 word3a7 word3a8 word3a9 word3a10
+Thread 2 > token 0 = word3a0
+Thread 0 > token 13 = word25
+Thread 0 > After tokenizing, my line = word25a0
+Thread 0 > line 6 = Thread 0 > After tokenizing, my line =
+Thread 5 > token 0 = a13
+Thread 5 > After tokenizing, my line = a13
+Thread 5 > line 11 = Thread 5 > After tokenizing, my line =
+Thread 2 > token 1 = word3a1
+Thread 2 > token 2 = word3a2
+Thread 2 > token 3 = word3a3
+Thread 2 > token 4 = word3a4
+Thread 2 > token 5 = word3a5
+Thread 2 > token 6 = word3a6
+Thread 2 > token 7 = word3a7
+Thread 2 > token 8 = word3a8
+Thread 2 > token 9 = word3a9
+Thread 2 > token 10 = word3a10
+Thread 2 > After tokenizing, my line = word3a0
+Thread 1 > token 0 = word23a0
+Thread 1 > token 1 = word23a1
+Thread 3 > After tokenizing, my line = word3a0
+Thread 3 > line 9 = a13Thread 3 > token 0 = a13
+Thread 3 > After tokenizing, my line = a13
+Thread 1 > token 2 = word23a2
+Thread 1 > token 3 = word23a3
+Thread 1 > token 4 = word23a4
+Thread 1 > token 5 = word23a5
+Thread 1 > token 6 = word23a6
+Thread 1 > token 7 = word23a7
+Thread 1 > token 8 = word23a8
+Thread 1 > token 9 = word23a9
+Thread 1 > token 10 = word23a10
+Thread 1 > token 11 = word23a11
+Thread 1 > token 12 = word23a12
+Thread 1 > token 13 = word23
+Thread 1 > After tokenizing, my line = word23a0
+total time:0.000601
+
+./prod_cons 16
+Thread 4 > line 4 = ord6a15
+Thread 4 > token 0 = ord6a15
+Thread 4 > After tokenizing, my line = ord6a15
+Thread 4 > line 12 = word26a0 word26a1 word26a2 word26a3 word26a4 word26a5 word26a6 word26a7 word26a8 word26a9 word26a10 word26a11 word26a12Thread 4 > token 0 = word26a0
+Thread 4 > token 1 = word26a1
+Thread 4 > token 2 = word26a2
+Thread 4 > token 3 = word26a3
+Thread 4 > token 4 = word26a4
+Thread 1 > line 1 = word26a0 word26a1 word26a2 word26a3 word26a4 word26a5 word26a6 word26a7 word26a8 word26a9 word26a10 word26a11 word26a12Thread 6 > line 6 = Thread 3 > line 3 = ord6a15
+Thread 3 > token 0 = ord6a15
+Thread 3 > After tokenizing, my line = ord6a15
+Thread 3 > line 11 = word6a0 word6a1 word6a2 word6a3 word6a4 word6a5 word6a6 word6a7 word6a8 word6a9 word6a10 word6a11 word6a12 word6a13 word6a14 wThread 3 > token 0 = word6a0
+Thread 5 > line 5 = word26a0 word26a1 word26a2 word26a3 word26a4 word26a5 word26a6 word26a7 word26a8 word26a9 word26a10 word26a11 word26a12Thread 5 > token 0 = word26a0
+Thread 5 > token 1 = word26a1
+Thread 5 > token 2 = word26a2
+Thread 1 > token 0 = word26a0
+Thread 1 > token 1 = word26a1
+Thread 0 > line 0 = ord6a15
+Thread 0 > token 0 = ord6a15
+Thread 3 > token 1 = word6a1
+Thread 2 > line 2 = Thread 2 > After tokenizing, my line =
+Thread 2 > line 10 = word6a0 word6a1 word6a2 word6a3 word6a4 word6a5 word6a6 word6a7 word6a8 word6a9 word6a10 word6a11 word6a12 word6a13 word6a14 wThread 2 > token 0 = word6a0
+Thread 2 > token 1 = word6a1
+Thread 2 > token 2 = word6a2
+Thread 2 > token 3 = word6a3
+Thread 2 > token 4 = word6a4
+Thread 2 > token 5 = word6a5
+Thread 2 > token 6 = word6a6
+Thread 2 > token 7 = word6a7
+Thread 2 > token 8 = word6a8
+Thread 2 > token 9 = word6a9
+Thread 2 > token 10 = word6a10
+Thread 2 > token 11 = word6a11
+Thread 2 > token 12 = word6a12
+Thread 2 > token 13 = word6a13
+Thread 2 > token 14 = word6a14
+Thread 2 > token 15 = w
+Thread 2 > After tokenizing, my line = word6a0
+Thread 0 > After tokenizing, my line = ord6a15
+Thread 0 > line 8 = Thread 0 > After tokenizing, my line =
+Thread 3 > token 2 = word6a2
+Thread 3 > token 3 = word6a3
+Thread 4 > token 5 = word26a5
+Thread 4 > token 6 = word26a6
+Thread 6 > After tokenizing, my line =
+Thread 1 > token 2 = word26a2
+Thread 7 > line 7 = word6a0 word6a1 word6a2 word6a3 word6a4 word6a5 word6a6 word6a7 word6a8 word6a9 word6a10 word6a11 word6a12 word6a13 word6a14 wThread 1 > token 3 = word26a3
+Thread 1 > token 4 = word26a4
+Thread 1 > token 5 = word26a5
+Thread 1 > token 6 = word26a6
+Thread 1 > token 7 = word26a7
+Thread 1 > token 8 = word26a8
+Thread 1 > token 9 = word26a9
+Thread 1 > token 10 = word26a10
+Thread 1 > token 11 = word26a11
+Thread 1 > token 12 = word26a12
+Thread 1 > After tokenizing, my line = word26a0
+Thread 1 > line 9 = ord6a15
+Thread 1 > token 0 = ord6a15
+Thread 1 > After tokenizing, my line = ord6a15
+Thread 7 > token 0 = word6a0
+Thread 7 > token 1 = word6a1
+Thread 7 > token 2 = word6a2
+Thread 7 > token 3 = word6a3
+Thread 7 > token 4 = word6a4
+Thread 5 > token 3 = word26a3
+Thread 5 > token 4 = word26a4
+Thread 5 > token 5 = word26a5
+Thread 5 > token 6 = word26a6
+Thread 5 > token 7 = word26a7
+Thread 3 > token 4 = word6a4
+Thread 5 > token 8 = word26a8
+Thread 4 > token 7 = word26a7
+Thread 4 > token 8 = word26a8
+Thread 6 > line 14 = Thread 4 > token 9 = word26a9
+Thread 4 > token 10 = word26a10
+Thread 4 > token 11 = word26a11
+Thread 4 > token 12 = word26a12
+Thread 4 > After tokenizing, my line = word26a0
+Thread 7 > token 5 = word6a5
+Thread 7 > token 6 = word6a6
+Thread 7 > token 7 = word6a7
+Thread 7 > token 8 = word6a8
+Thread 7 > token 9 = word6a9
+Thread 7 > token 10 = word6a10
+Thread 7 > token 11 = word6a11
+Thread 7 > token 12 = word6a12
+Thread 7 > token 13 = word6a13
+Thread 7 > token 14 = word6a14
+Thread 7 > token 15 = w
+Thread 7 > After tokenizing, my line = word6a0
+Thread 5 > token 9 = word26a9
+Thread 5 > token 10 = word26a10
+Thread 5 > token 11 = word26a11
+Thread 5 > token 12 = word26a12
+Thread 5 > After tokenizing, my line = word26a0
+Thread 6 > After tokenizing, my line =
+Thread 3 > token 5 = word6a5
+Thread 3 > token 6 = word6a6
+Thread 3 > token 7 = word6a7
+Thread 3 > token 8 = word6a8
+Thread 3 > token 9 = word6a9
+Thread 3 > token 10 = word6a10
+Thread 3 > token 11 = word6a11
+Thread 3 > token 12 = word6a12
+Thread 3 > token 13 = word6a13
+Thread 3 > token 14 = word6a14
+Thread 3 > token 15 = w
+Thread 3 > After tokenizing, my line = word6a0
+Thread 5 > line 13 = Thread 5 > After tokenizing, my line =
+total time:0.000768
+
+./prod_cons 32
+Thread 6 > line 6 = word213a0 word213a1 word213a2 word213a3 word213a4 word213a5 word213a6 word213a7 word213a8 word213a9 word213a10 word213a11 wordThread 1 > line 1 = word213a0 word213a1 word213a2 word213a3 word213a4 word213a5 word213a6 word213a7 word213a8 word213a9 word213a10 word213a11 wordThread 1 > token 0 = word213a0
+Thread 9 > line 9 = a13 word12a14
+Thread 5 > line 5 = Thread 2 > line 2 = Thread 2 > After tokenizing, my line =
+Thread 8 > line 8 = word13a0 word13a1 word13a2 word13a3 word13a4 word13a5 word13a6 word13a7 word13a8 word13a9 word13a10
+Thread 8 > token 0 = word13a0
+Thread 8 > token 1 = word13a1
+Thread 8 > token 2 = word13a2
+Thread 8 > token 3 = word13a3
+Thread 8 > token 4 = word13a4
+Thread 8 > token 5 = word13a5
+Thread 8 > token 6 = word13a6
+Thread 4 > line 4 = 213a12Thread 4 > token 0 = 213a12
+Thread 4 > After tokenizing, my line = 213a12
+Thread 4 > line 20 = 211a12Thread 4 > token 0 = 211a12
+Thread 4 > After tokenizing, my line = 211a12
+Thread 0 > line 0 = 213a12Thread 0 > token 0 = 213a12
+Thread 15 > line 15 = word12a0 word12a1 word12a2 word12a3 word12a4 word12a5 word12a6 word12a7 word12a8 word12a9 word12a10 word12a11 word12a12 word12Thread 15 > token 0 = word12a0
+Thread 15 > token 1 = word12a1
+Thread 15 > token 2 = word12a2
+Thread 15 > token 3 = word12a3
+Thread 15 > token 4 = word12a4
+Thread 15 > token 5 = word12a5
+Thread 15 > token 6 = word12a6
+Thread 7 > line 7 = 213a12Thread 15 > token 7 = word12a7
+Thread 10 > line 10 = a13 word12a14
+Thread 10 > token 0 = a13
+Thread 10 > token 1 = word12a14
+Thread 10 > After tokenizing, my line = a13
+Thread 10 > line 26 = word11a0 word11a1 word11a2 word11a3 word11a4 word11a5 word11a6 word11a7 word11a8 word11a9 word11a10 word11a11 word11a12
+Thread 10 > token 0 = word11a0
+Thread 10 > token 1 = word11a1
+Thread 10 > token 2 = word11a2
+Thread 10 > token 3 = word11a3
+Thread 0 > After tokenizing, my line = 213a12
+Thread 0 > line 16 = Thread 9 > token 0 = a13
+Thread 9 > token 1 = word12a14
+Thread 9 > After tokenizing, my line = a13
+Thread 9 > line 25 = Thread 9 > After tokenizing, my line =
+Thread 3 > line 3 = word213a0 word213a1 word213a2 word213a3 word213a4 word213a5 word213a6 word213a7 word213a8 word213a9 word213a10 word213a11 wordThread 3 > token 0 = word213a0
+Thread 3 > token 1 = word213a1
+Thread 3 > token 2 = word213a2
+Thread 3 > token 3 = word213a3
+Thread 3 > token 4 = word213a4
+Thread 3 > token 5 = word213a5
+Thread 3 > token 6 = word213a6
+Thread 3 > token 7 = word213a7
+Thread 3 > token 8 = word213a8
+Thread 3 > token 9 = word213a9
+Thread 3 > token 10 = word213a10
+Thread 3 > token 11 = word213a11
+Thread 3 > token 12 = word
+Thread 0 > After tokenizing, my line =
+Thread 5 > After tokenizing, my line =
+Thread 5 > line 21 = Thread 5 > After tokenizing, my line =
+Thread 2 > line 18 = word211a0 word211a1 word211a2 word211a3 word211a4 word211a5 word211a6 word211a7 word211a8 word211a9 word211a10 word211a11 wordThread 2 > token 0 = word211a0
+Thread 7 > token 0 = 213a12
+Thread 7 > After tokenizing, my line = 213a12
+Thread 7 > line 23 = word211a0 word211a1 word211a2 word211a3 word211a4 word211a5 word211a6 word211a7 word211a8 word211a9 word211a10 word211a11 wordThread 7 > token 0 = word211a0
+Thread 7 > token 1 = word211a1
+Thread 7 > token 2 = word211a2
+Thread 7 > token 3 = word211a3
+Thread 7 > token 4 = word211a4
+Thread 7 > token 5 = word211a5
+Thread 7 > token 6 = word211a6
+Thread 7 > token 7 = word211a7
+Thread 7 > token 8 = word211a8
+Thread 7 > token 9 = word211a9
+Thread 7 > token 10 = word211a10
+Thread 7 > token 11 = word211a11
+Thread 3 > After tokenizing, my line = word213a0
+Thread 0 > line 32 = word20a0 word20a1 word20a2 word20a3 word20a4 word20a5 word20a6 word20a7 word20a8 word20a9 word20a10Thread 3 > line 19 = word211a0 word211a1 word211a2 word211a3 word211a4 word211a5 word211a6 word211a7 word211a8 word211a9 word211a10 word211a11 wordThread 3 > token 0 = word211a0
+Thread 3 > token 1 = word211a1
+Thread 3 > token 2 = word211a2
+Thread 3 > token 3 = word211a3
+Thread 3 > token 4 = word211a4
+Thread 3 > token 5 = word211a5
+Thread 3 > token 6 = word211a6
+Thread 3 > token 7 = word211a7
+Thread 3 > token 8 = word211a8
+Thread 3 > token 9 = word211a9
+Thread 3 > token 10 = word211a10
+Thread 3 > token 11 = word211a11
+Thread 3 > token 12 = word
+Thread 3 > After tokenizing, my line = word211a0
+Thread 7 > token 12 = word
+Thread 7 > After tokenizing, my line = word211a0
+Thread 6 > token 0 = word213a0
+Thread 6 > token 1 = word213a1
+Thread 6 > token 2 = word213a2
+Thread 0 > token 0 = word20a0
+Thread 14 > line 14 = 211a12Thread 0 > token 1 = word20a1
+Thread 2 > token 1 = word211a1
+Thread 2 > token 2 = word211a2
+Thread 2 > token 3 = word211a3
+Thread 2 > token 4 = word211a4
+Thread 1 > token 1 = word213a1
+Thread 1 > token 2 = word213a2
+Thread 1 > token 3 = word213a3
+Thread 1 > token 4 = word213a4
+Thread 1 > token 5 = word213a5
+Thread 1 > token 6 = word213a6
+Thread 1 > token 7 = word213a7
+Thread 1 > token 8 = word213a8
+Thread 1 > token 9 = word213a9
+Thread 1 > token 10 = word213a10
+Thread 1 > token 11 = word213a11
+Thread 1 > token 12 = word
+Thread 1 > After tokenizing, my line = word213a0
+Thread 8 > token 7 = word13a7
+Thread 2 > token 5 = word211a5
+Thread 2 > token 6 = word211a6
+Thread 2 > token 7 = word211a7
+Thread 2 > token 8 = word211a8
+Thread 2 > token 9 = word211a9
+Thread 2 > token 10 = word211a10
+Thread 2 > token 11 = word211a11
+Thread 2 > token 12 = word
+Thread 2 > After tokenizing, my line = word211a0
+Thread 15 > token 8 = word12a8
+Thread 15 > token 9 = word12a9
+Thread 15 > token 10 = word12a10
+Thread 15 > token 11 = word12a11
+Thread 15 > token 12 = word12a12
+Thread 1 > line 17 = Thread 1 > After tokenizing, my line =
+Thread 8 > token 8 = word13a8
+Thread 8 > token 9 = word13a9
+Thread 8 > token 10 = word13a10
+Thread 8 > After tokenizing, my line = word13a0
+Thread 8 > line 24 = 211a12Thread 8 > token 0 = 211a12
+Thread 8 > After tokenizing, my line = 211a12
+Thread 14 > token 0 = 211a12
+Thread 14 > After tokenizing, my line = 211a12
+Thread 14 > line 30 = Thread 14 > After tokenizing, my line =
+Thread 15 > token 13 = word12
+Thread 15 > After tokenizing, my line = word12a0
+Thread 15 > line 31 = Thread 1 > line 33 = Thread 1 > After tokenizing, my line =
+Thread 12 > line 12 = 212a12 word212a13Thread 12 > token 0 = 212a12
+Thread 10 > token 4 = word11a4
+Thread 10 > token 5 = word11a5
+Thread 10 > token 6 = word11a6
+Thread 10 > token 7 = word11a7
+Thread 10 > token 8 = word11a8
+Thread 10 > token 9 = word11a9
+Thread 10 > token 10 = word11a10
+Thread 10 > token 11 = word11a11
+Thread 10 > token 12 = word11a12
+Thread 10 > After tokenizing, my line = word11a0
+Thread 12 > token 1 = word212a13
+Thread 12 > After tokenizing, my line = 212a12
+Thread 12 > line 28 = Thread 12 > After tokenizing, my line =
+Thread 0 > token 2 = word20a2
+Thread 0 > token 3 = word20a3
+Thread 0 > token 4 = word20a4
+Thread 0 > token 5 = word20a5
+Thread 0 > token 6 = word20a6
+Thread 0 > token 7 = word20a7
+Thread 0 > token 8 = word20a8
+Thread 0 > token 9 = word20a9
+Thread 0 > token 10 = word20a10
+Thread 0 > After tokenizing, my line = word20a0
+Thread 13 > line 13 = Thread 13 > After tokenizing, my line =
+Thread 13 > line 29 = word20a0 word20a1 word20a2 word20a3 word20a4 word20a5 word20a6 word20a7 word20a8 word20a9 word20a10Thread 13 > token 0 = word20a0
+Thread 13 > token 1 = word20a1
+Thread 13 > token 2 = word20a2
+Thread 13 > token 3 = word20a3
+Thread 13 > token 4 = word20a4
+Thread 13 > token 5 = word20a5
+Thread 13 > token 6 = word20a6
+Thread 13 > token 7 = word20a7
+Thread 13 > token 8 = word20a8
+Thread 13 > token 9 = word20a9
+Thread 13 > token 10 = word20a10
+Thread 13 > After tokenizing, my line = word20a0
+Thread 11 > line 11 = word212a0 word212a1 word212a2 word212a3 word212a4 word212a5 word212a6 word212a7 word212a8 word212a9 word212a10 word212a11 wordThread 11 > token 0 = word212a0
+Thread 11 > token 1 = word212a1
+Thread 11 > token 2 = word212a2
+Thread 11 > token 3 = word212a3
+Thread 11 > token 4 = word212a4
+Thread 11 > token 5 = word212a5
+Thread 11 > token 6 = word212a6
+Thread 11 > token 7 = word212a7
+Thread 11 > token 8 = word212a8
+Thread 11 > token 9 = word212a9
+Thread 11 > token 10 = word212a10
+Thread 11 > token 11 = word212a11
+Thread 11 > token 12 = word
+Thread 11 > After tokenizing, my line = word212a0
+Thread 11 > line 27 = Thread 11 > After tokenizing, my line =
+Thread 6 > token 3 = word213a3
+Thread 6 > token 4 = word213a4
+Thread 6 > token 5 = word213a5
+Thread 6 > token 6 = word213a6
+Thread 6 > token 7 = word213a7
+Thread 6 > token 8 = word213a8
+Thread 6 > token 9 = word213a9
+Thread 6 > token 10 = word213a10
+Thread 6 > token 11 = word213a11
+Thread 6 > token 12 = word
+Thread 6 > After tokenizing, my line = word213a0
+Thread 6 > line 22 = word11a0 word11a1 word11a2 word11a3 word11a4 word11a5 word11a6 word11a7 word11a8 word11a9 word11a10 word11a11 word11a12
+Thread 6 > token 0 = word11a0
+Thread 6 > token 1 = word11a1
+Thread 6 > token 2 = word11a2
+Thread 6 > token 3 = word11a3
+Thread 6 > token 4 = word11a4
+Thread 6 > token 5 = word11a5
+Thread 6 > token 6 = word11a6
+Thread 6 > token 7 = word11a7
+Thread 6 > token 8 = word11a8
+Thread 6 > token 9 = word11a9
+Thread 6 > token 10 = word11a10
+Thread 6 > token 11 = word11a11
+Thread 6 > token 12 = word11a12
+Thread 6 > After tokenizing, my line = word11a0
+Thread 15 > After tokenizing, my line =
+total time:0.001367
+
+./prod_cons 64
+Thread 6 > line 6 = word28a0 word28a1 word28a2 word28a3 word28a4 word28a5 word28a6 word28a7 word28a8 word28a9 word28a10 word28a11 word28a12 word28Thread 1 > line 1 = word214a0 word214a1 word214a2 word214a3 word214a4 word214a5 word214a6 word214a7 word214a8 word214a9 word214a10 word214a11 wordThread 13 > line 13 = word8a0 word8a1 word8a2 word8a3 word8a4 word8a5 word8a6 word8a7 word8a8 word8a9 word8a10 word8a11
+Thread 5 > line 5 = word28a0 word28a1 word28a2 word28a3 word28a4 word28a5 word28a6 word28a7 word28a8 word28a9 word28a10 word28a11 word28a12 word28Thread 9 > line 9 = a13Thread 14 > line 14 = word20a0 word20a1 word20a2 word20a3 word20a4 word20a5 word20a6 word20a7 word20a8 word20a9 word20a10Thread 9 > token 0 = a13
+Thread 9 > After tokenizing, my line = a13
+Thread 26 > line 26 = word212a0 word212a1 word212a2 word212a3 word212a4 word212a5 word212a6 word212a7 word212a8 word212a9 word212a10 word212a11 wordThread 9 > line 41 = Thread 9 > After tokenizing, my line =
+Thread 24 > line 24 = word212a0 word212a1 word212a2 word212a3 word212a4 word212a5 word212a6 word212a7 word212a8 word212a9 word212a10 word212a11 wordThread 12 > line 12 = word8a0 word8a1 word8a2 word8a3 word8a4 word8a5 word8a6 word8a7 word8a8 word8a9 word8a10 word8a11
+Thread 12 > token 0 = word8a0
+Thread 12 > token 1 = word8a1
+Thread 12 > token 2 = word8a2
+Thread 12 > token 3 = word8a3
+Thread 12 > token 4 = word8a4
+Thread 12 > token 5 = word8a5
+Thread 12 > token 6 = word8a6
+Thread 12 > token 7 = word8a7
+Thread 12 > token 8 = word8a8
+Thread 12 > token 9 = word8a9
+Thread 12 > token 10 = word8a10
+Thread 12 > token 11 = word8a11
+Thread 12 > After tokenizing, my line = word8a0
+Thread 12 > line 44 = word223a0 word223a1 word223a2 word223a3 word223a4 word223a5 word223a6 word223a7 word223a8 word223a9 word223a10 word223a11 wordThread 12 > token 0 = word223a0
+Thread 12 > token 1 = word223a1
+Thread 12 > token 2 = word223a2
+Thread 12 > token 3 = word223a3
+Thread 12 > token 4 = word223a4
+Thread 12 > token 5 = word223a5
+Thread 0 > line 0 = a13
+Thread 0 > token 0 = a13
+Thread 0 > After tokenizing, my line = a13
+Thread 16 > line 16 = word8a0 word8a1 word8a2 word8a3 word8a4 word8a5 word8a6 word8a7 word8a8 word8a9 word8a10 word8a11
+Thread 16 > token 0 = word8a0
+Thread 16 > token 1 = word8a1
+Thread 16 > token 2 = word8a2
+Thread 16 > token 3 = word8a3
+Thread 16 > token 4 = word8a4
+Thread 16 > token 5 = word8a5
+Thread 16 > token 6 = word8a6
+Thread 16 > token 7 = word8a7
+Thread 16 > token 8 = word8a8
+Thread 16 > token 9 = word8a9
+Thread 16 > token 10 = word8a10
+Thread 16 > token 11 = word8a11
+Thread 16 > After tokenizing, my line = word8a0
+Thread 16 > line 48 = 223a12 word223a13Thread 16 > token 0 = 223a12
+Thread 16 > token 1 = word223a13
+Thread 16 > After tokenizing, my line = 223a12
+Thread 31 > line 31 = word217a0 word217a1 word217a2 word217a3 word217a4 word217a5 word217a6 word217a7 word217a8 word217a9 word217a10Thread 31 > token 0 = word217a0
+Thread 31 > token 1 = word217a1
+Thread 31 > token 2 = word217a2
+Thread 31 > token 3 = word217a3
+Thread 31 > token 4 = word217a4
+Thread 31 > token 5 = word217a5
+Thread 31 > token 6 = word217a6
+Thread 31 > token 7 = word217a7
+Thread 31 > token 8 = word217a8
+Thread 31 > token 9 = word217a9
+Thread 31 > token 10 = word217a10
+Thread 5 > token 0 = word28a0
+Thread 5 > token 1 = word28a1
+Thread 5 > token 2 = word28a2
+Thread 5 > token 3 = word28a3
+Thread 5 > token 4 = word28a4
+Thread 5 > token 5 = word28a5
+Thread 5 > token 6 = word28a6
+Thread 5 > token 7 = word28a7
+Thread 5 > token 8 = word28a8
+Thread 5 > token 9 = word28a9
+Thread 5 > token 10 = word28a10
+Thread 5 > token 11 = word28a11
+Thread 5 > token 12 = word28a12
+Thread 5 > token 13 = word28
+Thread 5 > After tokenizing, my line = word28a0
+Thread 5 > line 37 = Thread 5 > After tokenizing, my line =
+Thread 5 > line 69 = Thread 5 > After tokenizing, my line =
+Thread 0 > line 32 = Thread 0 > After tokenizing, my line =
+Thread 0 > line 64 = word224a0 word224a1 word224a2 word224a3 word224a4 word224a5 word224a6 word224a7 word224a8 word224a9 word224a10 word224a11 wordThread 0 > token 0 = word224a0
+Thread 0 > token 1 = word224a1
+Thread 0 > token 2 = word224a2
+Thread 0 > token 3 = word224a3
+Thread 0 > token 4 = word224a4
+Thread 0 > token 5 = word224a5
+Thread 0 > token 6 = word224a6
+Thread 0 > token 7 = word224a7
+Thread 0 > token 8 = word224a8
+Thread 0 > token 9 = word224a9
+Thread 0 > token 10 = word224a10
+Thread 0 > token 11 = word224a11
+Thread 0 > token 12 = word
+Thread 0 > After tokenizing, my line = word224a0
+Thread 29 > line 29 = Thread 29 > After tokenizing, my line =
+Thread 29 > line 61 = Thread 29 > After tokenizing, my line =
+Thread 25 > line 25 = a13 word12a14
+Thread 25 > token 0 = a13
+Thread 25 > token 1 = word12a14
+Thread 25 > After tokenizing, my line = a13
+Thread 25 > line 57 = Thread 25 > After tokenizing, my line =
+Thread 1 > token 0 = word214a0
+Thread 1 > token 1 = word214a1
+Thread 1 > token 2 = word214a2
+Thread 1 > token 3 = word214a3
+Thread 1 > token 4 = word214a4
+Thread 1 > token 5 = word214a5
+Thread 1 > token 6 = word214a6
+Thread 1 > token 7 = word214a7
+Thread 1 > token 8 = word214a8
+Thread 1 > token 9 = word214a9
+Thread 14 > token 0 = word20a0
+Thread 14 > token 1 = word20a1
+Thread 2 > line 2 = 214a12 word214a13 word214a14 word214a15 word214a16Thread 14 > token 2 = word20a2
+Thread 14 > token 3 = word20a3
+Thread 14 > token 4 = word20a4
+Thread 14 > token 5 = word20a5
+Thread 14 > token 6 = word20a6
+Thread 14 > token 7 = word20a7
+Thread 14 > token 8 = word20a8
+Thread 14 > token 9 = word20a9
+Thread 14 > token 10 = word20a10
+Thread 14 > After tokenizing, my line = word20a0
+Thread 14 > line 46 = Thread 14 > After tokenizing, my line =
+Thread 22 > line 22 = Thread 22 > After tokenizing, my line =
+Thread 22 > line 54 = word227a0 word227a1 word227a2 word227a3 word227a4 word227a5 word227a6 word227a7 word227a8 word227a9 word227a10Thread 22 > token 0 = word227a0
+Thread 22 > token 1 = word227a1
+Thread 22 > token 2 = word227a2
+Thread 22 > token 3 = word227a3
+Thread 22 > token 4 = word227a4
+Thread 22 > token 5 = word227a5
+Thread 22 > token 6 = word227a6
+Thread 22 > token 7 = word227a7
+Thread 22 > token 8 = word227a8
+Thread 22 > token 9 = word227a9
+Thread 22 > token 10 = word227a10
+Thread 22 > After tokenizing, my line = word227a0
+Thread 21 > line 21 = Thread 21 > After tokenizing, my line =
+Thread 21 > line 53 = Thread 21 > After tokenizing, my line =
+Thread 10 > line 10 = word28a0 word28a1 word28a2 word28a3 word28a4 word28a5 word28a6 word28a7 word28a8 word28a9 word28a10 word28a11 word28a12 word28Thread 15 > line 15 = Thread 1 > token 10 = word214a10
+Thread 1 > token 11 = word214a11
+Thread 1 > token 12 = word
+Thread 1 > After tokenizing, my line = word214a0
+Thread 1 > line 33 = Thread 1 > After tokenizing, my line =
+Thread 1 > line 65 = 224a12 word224a13Thread 4 > line 4 = a13
+Thread 19 > line 19 = word218a0 word218a1 word218a2 word218a3 word218a4 word218a5 word218a6 word218a7 word218a8 word218a9 word218a10 word218a11 wordThread 4 > token 0 = a13
+Thread 3 > line 3 = Thread 28 > line 28 = Thread 3 > After tokenizing, my line =
+Thread 3 > line 35 = word231a0 word231a1 word231a2 word231a3 word231a4 word231a5 word231a6 word231a7 word231a8 word231a9 word231a10 word231a11 wordThread 3 > token 0 = word231a0
+Thread 3 > token 1 = word231a1
+Thread 3 > token 2 = word231a2
+Thread 3 > token 3 = word231a3
+Thread 3 > token 4 = word231a4
+Thread 3 > token 5 = word231a5
+Thread 3 > token 6 = word231a6
+Thread 3 > token 7 = word231a7
+Thread 13 > token 0 = word8a0
+Thread 13 > token 1 = word8a1
+Thread 13 > token 2 = word8a2
+Thread 13 > token 3 = word8a3
+Thread 13 > token 4 = word8a4
+Thread 13 > token 5 = word8a5
+Thread 13 > token 6 = word8a6
+Thread 13 > token 7 = word8a7
+Thread 13 > token 8 = word8a8
+Thread 18 > line 18 = Thread 13 > token 9 = word8a9
+Thread 2 > token 0 = 214a12
+Thread 12 > token 6 = word223a6
+Thread 1 > token 0 = 224a12
+Thread 1 > token 1 = word224a13
+Thread 1 > After tokenizing, my line = 224a12
+Thread 23 > line 23 = a13 word12a14
+Thread 23 > token 0 = a13
+Thread 23 > token 1 = word12a14
+Thread 23 > After tokenizing, my line = a13
+Thread 23 > line 55 = Thread 23 > After tokenizing, my line =
+Thread 26 > token 0 = word212a0
+Thread 26 > token 1 = word212a1
+Thread 26 > token 2 = word212a2
+Thread 26 > token 3 = word212a3
+Thread 26 > token 4 = word212a4
+Thread 26 > token 5 = word212a5
+Thread 26 > token 6 = word212a6
+Thread 26 > token 7 = word212a7
+Thread 26 > token 8 = word212a8
+Thread 26 > token 9 = word212a9
+Thread 26 > token 10 = word212a10
+Thread 26 > token 11 = word212a11
+Thread 31 > After tokenizing, my line = word217a0
+Thread 31 > line 63 = Thread 31 > After tokenizing, my line =
+Thread 10 > token 0 = word28a0
+Thread 10 > token 1 = word28a1
+Thread 10 > token 2 = word28a2
+Thread 10 > token 3 = word28a3
+Thread 18 > After tokenizing, my line =
+Thread 18 > line 50 = Thread 18 > After tokenizing, my line =
+Thread 13 > token 10 = word8a10
+Thread 13 > token 11 = word8a11
+Thread 13 > After tokenizing, my line = word8a0
+Thread 13 > line 45 = 223a12 word223a13Thread 13 > token 0 = 223a12
+Thread 13 > token 1 = word223a13
+Thread 13 > After tokenizing, my line = 223a12
+Thread 4 > After tokenizing, my line = a13
+Thread 4 > line 36 = 231a12 word231a13Thread 4 > token 0 = 231a12
+Thread 4 > token 1 = word231a13
+Thread 4 > After tokenizing, my line = 231a12
+Thread 4 > line 68 = 224a12 word224a13Thread 27 > line 27 = 212a12 word212a13Thread 27 > token 0 = 212a12
+Thread 27 > token 1 = word212a13
+Thread 27 > After tokenizing, my line = 212a12
+Thread 27 > line 59 = word226a0 word226a1 word226a2 word226a3 word226a4 word226a5 word226a6 word226a7 word226a8 word226a9 word226a10 word226a11 wordThread 27 > token 0 = word226a0
+Thread 27 > token 1 = word226a1
+Thread 27 > token 2 = word226a2
+Thread 27 > token 3 = word226a3
+Thread 27 > token 4 = word226a4
+Thread 27 > token 5 = word226a5
+Thread 27 > token 6 = word226a6
+Thread 27 > token 7 = word226a7
+Thread 27 > token 8 = word226a8
+Thread 27 > token 9 = word226a9
+Thread 27 > token 10 = word226a10
+Thread 27 > token 11 = word226a11
+Thread 30 > line 30 = word12a0 word12a1 word12a2 word12a3 word12a4 word12a5 word12a6 word12a7 word12a8 word12a9 word12a10 word12a11 word12a12 word12Thread 27 > token 12 = word
+Thread 27 > After tokenizing, my line = word226a0
+Thread 28 > After tokenizing, my line =
+Thread 28 > line 60 = 226a12Thread 28 > token 0 = 226a12
+Thread 4 > token 0 = 224a12
+Thread 4 > token 1 = word224a13
+Thread 4 > After tokenizing, my line = 224a12
+Thread 17 > line 17 = word0a0 word0a1 word0a2 word0a3 word0a4 word0a5 word0a6 word0a7 word0a8 word0a9 word0a10 word0a11
+Thread 17 > token 0 = word0a0
+Thread 24 > token 0 = word212a0
+Thread 24 > token 1 = word212a1
+Thread 24 > token 2 = word212a2
+Thread 24 > token 3 = word212a3
+Thread 24 > token 4 = word212a4
+Thread 24 > token 5 = word212a5
+Thread 24 > token 6 = word212a6
+Thread 26 > token 12 = word
+Thread 26 > After tokenizing, my line = word212a0
+Thread 26 > line 58 = word226a0 word226a1 word226a2 word226a3 word226a4 word226a5 word226a6 word226a7 word226a8 word226a9 word226a10 word226a11 wordThread 26 > token 0 = word226a0
+Thread 26 > token 1 = word226a1
+Thread 26 > token 2 = word226a2
+Thread 26 > token 3 = word226a3
+Thread 26 > token 4 = word226a4
+Thread 26 > token 5 = word226a5
+Thread 26 > token 6 = word226a6
+Thread 26 > token 7 = word226a7
+Thread 26 > token 8 = word226a8
+Thread 26 > token 9 = word226a9
+Thread 26 > token 10 = word226a10
+Thread 26 > token 11 = word226a11
+Thread 26 > token 12 = word
+Thread 26 > After tokenizing, my line = word226a0
+Thread 7 > line 7 = a13Thread 7 > token 0 = a13
+Thread 7 > After tokenizing, my line = a13
+Thread 7 > line 39 = word231a0 word231a1 word231a2 word231a3 word231a4 word231a5 word231a6 word231a7 word231a8 word231a9 word231a10 word231a11 wordThread 7 > token 0 = word231a0
+Thread 7 > token 1 = word231a1
+Thread 7 > token 2 = word231a2
+Thread 7 > token 3 = word231a3
+Thread 8 > line 8 = word28a0 word28a1 word28a2 word28a3 word28a4 word28a5 word28a6 word28a7 word28a8 word28a9 word28a10 word28a11 word28a12 word28Thread 7 > token 4 = word231a4
+Thread 10 > token 4 = word28a4
+Thread 10 > token 5 = word28a5
+Thread 10 > token 6 = word28a6
+Thread 10 > token 7 = word28a7
+Thread 10 > token 8 = word28a8
+Thread 10 > token 9 = word28a9
+Thread 10 > token 10 = word28a10
+Thread 10 > token 11 = word28a11
+Thread 10 > token 12 = word28a12
+Thread 10 > token 13 = word28
+Thread 10 > After tokenizing, my line = word28a0
+Thread 10 > line 42 = Thread 10 > After tokenizing, my line =
+Thread 8 > token 0 = word28a0
+Thread 8 > token 1 = word28a1
+Thread 8 > token 2 = word28a2
+Thread 8 > token 3 = word28a3
+Thread 8 > token 4 = word28a4
+Thread 30 > token 0 = word12a0
+Thread 30 > token 1 = word12a1
+Thread 30 > token 2 = word12a2
+Thread 30 > token 3 = word12a3
+Thread 30 > token 4 = word12a4
+Thread 30 > token 5 = word12a5
+Thread 30 > token 6 = word12a6
+Thread 30 > token 7 = word12a7
+Thread 30 > token 8 = word12a8
+Thread 20 > line 20 = 218a12 word218a13 word218a14 word218a15Thread 30 > token 9 = word12a9
+Thread 17 > token 1 = word0a1
+Thread 11 > line 11 = word8a0 word8a1 word8a2 word8a3 word8a4 word8a5 word8a6 word8a7 word8a8 word8a9 word8a10 word8a11
+Thread 3 > token 8 = word231a8
+Thread 3 > token 9 = word231a9
+Thread 3 > token 10 = word231a10
+Thread 3 > token 11 = word231a11
+Thread 3 > token 12 = word
+Thread 3 > After tokenizing, my line = word231a0
+Thread 2 > token 1 = word214a13
+Thread 2 > token 2 = word214a14
+Thread 2 > token 3 = word214a15
+Thread 2 > token 4 = word214a16
+Thread 2 > After tokenizing, my line = 214a12
+Thread 2 > line 34 = Thread 2 > After tokenizing, my line =
+Thread 2 > line 66 = Thread 30 > token 10 = word12a10
+Thread 17 > token 2 = word0a2
+Thread 17 > token 3 = word0a3
+Thread 17 > token 4 = word0a4
+Thread 17 > token 5 = word0a5
+Thread 17 > token 6 = word0a6
+Thread 17 > token 7 = word0a7
+Thread 17 > token 8 = word0a8
+Thread 17 > token 9 = word0a9
+Thread 17 > token 10 = word0a10
+Thread 17 > token 11 = word0a11
+Thread 17 > After tokenizing, my line = word0a0
+Thread 17 > line 49 = Thread 17 > After tokenizing, my line =
+Thread 6 > token 0 = word28a0
+Thread 6 > token 1 = word28a1
+Thread 6 > token 2 = word28a2
+Thread 6 > token 3 = word28a3
+Thread 6 > token 4 = word28a4
+Thread 6 > token 5 = word28a5
+Thread 6 > token 6 = word28a6
+Thread 6 > token 7 = word28a7
+Thread 6 > token 8 = word28a8
+Thread 6 > token 9 = word28a9
+Thread 6 > token 10 = word28a10
+Thread 6 > token 11 = word28a11
+Thread 6 > token 12 = word28a12
+Thread 6 > token 13 = word28
+Thread 6 > After tokenizing, my line = word28a0
+Thread 6 > line 38 = word17a0 word17a1 word17a2 word17a3 word17a4 word17a5 word17a6 word17a7 word17a8 word17a9 word17a10 word17a11
+Thread 6 > token 0 = word17a0
+Thread 6 > token 1 = word17a1
+Thread 30 > token 11 = word12a11
+Thread 30 > token 12 = word12a12
+Thread 30 > token 13 = word12
+Thread 30 > After tokenizing, my line = word12a0
+Thread 30 > line 62 = word26a0 word26a1 word26a2 word26a3 word26a4 word26a5 word26a6 word26a7 word26a8 word26a9 word26a10 word26a11
+Thread 30 > token 0 = word26a0
+Thread 30 > token 1 = word26a1
+Thread 30 > token 2 = word26a2
+Thread 30 > token 3 = word26a3
+Thread 30 > token 4 = word26a4
+Thread 30 > token 5 = word26a5
+Thread 30 > token 6 = word26a6
+Thread 30 > token 7 = word26a7
+Thread 30 > token 8 = word26a8
+Thread 30 > token 9 = word26a9
+Thread 30 > token 10 = word26a10
+Thread 19 > token 0 = word218a0
+Thread 28 > After tokenizing, my line = 226a12
+Thread 2 > After tokenizing, my line =
+Thread 6 > token 2 = word17a2
+Thread 6 > token 3 = word17a3
+Thread 6 > token 4 = word17a4
+Thread 6 > token 5 = word17a5
+Thread 6 > token 6 = word17a6
+Thread 6 > token 7 = word17a7
+Thread 6 > token 8 = word17a8
+Thread 6 > token 9 = word17a9
+Thread 6 > token 10 = word17a10
+Thread 6 > token 11 = word17a11
+Thread 6 > After tokenizing, my line = word17a0
+Thread 30 > token 11 = word26a11
+Thread 30 > After tokenizing, my line = word26a0
+Thread 20 > token 0 = 218a12
+Thread 20 > token 1 = word218a13
+Thread 20 > token 2 = word218a14
+Thread 20 > token 3 = word218a15
+Thread 20 > After tokenizing, my line = 218a12
+Thread 20 > line 52 = 223a12 word223a13Thread 7 > token 5 = word231a5
+Thread 8 > token 5 = word28a5
+Thread 3 > line 67 = word224a0 word224a1 word224a2 word224a3 word224a4 word224a5 word224a6 word224a7 word224a8 word224a9 word224a10 word224a11 wordThread 8 > token 6 = word28a6
+Thread 8 > token 7 = word28a7
+Thread 8 > token 8 = word28a8
+Thread 8 > token 9 = word28a9
+Thread 8 > token 10 = word28a10
+Thread 8 > token 11 = word28a11
+Thread 8 > token 12 = word28a12
+Thread 8 > token 13 = word28
+Thread 8 > After tokenizing, my line = word28a0
+Thread 8 > line 40 = 231a12 word231a13Thread 8 > token 0 = 231a12
+Thread 8 > token 1 = word231a13
+Thread 8 > After tokenizing, my line = 231a12
+Thread 19 > token 1 = word218a1
+Thread 19 > token 2 = word218a2
+Thread 19 > token 3 = word218a3
+Thread 19 > token 4 = word218a4
+Thread 19 > token 5 = word218a5
+Thread 19 > token 6 = word218a6
+Thread 19 > token 7 = word218a7
+Thread 7 > token 6 = word231a6
+Thread 7 > token 7 = word231a7
+Thread 7 > token 8 = word231a8
+Thread 7 > token 9 = word231a9
+Thread 7 > token 10 = word231a10
+Thread 11 > token 0 = word8a0
+Thread 24 > token 7 = word212a7
+Thread 24 > token 8 = word212a8
+Thread 24 > token 9 = word212a9
+Thread 24 > token 10 = word212a10
+Thread 24 > token 11 = word212a11
+Thread 24 > token 12 = word
+Thread 24 > After tokenizing, my line = word212a0
+Thread 24 > line 56 = word227a0 word227a1 word227a2 word227a3 word227a4 word227a5 word227a6 word227a7 word227a8 word227a9 word227a10Thread 24 > token 0 = word227a0
+Thread 7 > token 11 = word231a11
+Thread 7 > token 12 = word
+Thread 7 > After tokenizing, my line = word231a0
+Thread 15 > After tokenizing, my line =
+Thread 15 > line 47 = word223a0 word223a1 word223a2 word223a3 word223a4 word223a5 word223a6 word223a7 word223a8 word223a9 word223a10 word223a11 wordThread 15 > token 0 = word223a0
+Thread 15 > token 1 = word223a1
+Thread 15 > token 2 = word223a2
+Thread 15 > token 3 = word223a3
+Thread 15 > token 4 = word223a4
+Thread 15 > token 5 = word223a5
+Thread 15 > token 6 = word223a6
+Thread 15 > token 7 = word223a7
+Thread 15 > token 8 = word223a8
+Thread 15 > token 9 = word223a9
+Thread 15 > token 10 = word223a10
+Thread 15 > token 11 = word223a11
+Thread 15 > token 12 = word
+Thread 15 > After tokenizing, my line = word223a0
+Thread 11 > token 1 = word8a1
+Thread 11 > token 2 = word8a2
+Thread 11 > token 3 = word8a3
+Thread 11 > token 4 = word8a4
+Thread 11 > token 5 = word8a5
+Thread 11 > token 6 = word8a6
+Thread 11 > token 7 = word8a7
+Thread 11 > token 8 = word8a8
+Thread 11 > token 9 = word8a9
+Thread 11 > token 10 = word8a10
+Thread 11 > token 11 = word8a11
+Thread 11 > After tokenizing, my line = word8a0
+Thread 11 > line 43 = word31a0 word31a1 word31a2 word31a3 word31a4 word31a5 word31a6 word31a7 word31a8 word31a9 word31a10 word31a11 word31a12
+Thread 11 > token 0 = word31a0
+Thread 11 > token 1 = word31a1
+Thread 11 > token 2 = word31a2
+Thread 11 > token 3 = word31a3
+Thread 11 > token 4 = word31a4
+Thread 11 > token 5 = word31a5
+Thread 11 > token 6 = word31a6
+Thread 11 > token 7 = word31a7
+Thread 11 > token 8 = word31a8
+Thread 11 > token 9 = word31a9
+Thread 11 > token 10 = word31a10
+Thread 11 > token 11 = word31a11
+Thread 11 > token 12 = word31a12
+Thread 11 > After tokenizing, my line = word31a0
+Thread 3 > token 0 = word224a0
+Thread 3 > token 1 = word224a1
+Thread 3 > token 2 = word224a2
+Thread 3 > token 3 = word224a3
+Thread 3 > token 4 = word224a4
+Thread 3 > token 5 = word224a5
+Thread 3 > token 6 = word224a6
+Thread 3 > token 7 = word224a7
+Thread 3 > token 8 = word224a8
+Thread 3 > token 9 = word224a9
+Thread 3 > token 10 = word224a10
+Thread 3 > token 11 = word224a11
+Thread 3 > token 12 = word
+Thread 3 > After tokenizing, my line = word224a0
+Thread 12 > token 7 = word223a7
+Thread 12 > token 8 = word223a8
+Thread 12 > token 9 = word223a9
+Thread 12 > token 10 = word223a10
+Thread 12 > token 11 = word223a11
+Thread 12 > token 12 = word
+Thread 12 > After tokenizing, my line = word223a0
+Thread 19 > token 8 = word218a8
+Thread 19 > token 9 = word218a9
+Thread 24 > token 1 = word227a1
+Thread 20 > token 0 = 223a12
+Thread 19 > token 10 = word218a10
+Thread 24 > token 2 = word227a2
+Thread 20 > token 1 = word223a13
+Thread 20 > After tokenizing, my line = 223a12
+Thread 24 > token 3 = word227a3
+Thread 24 > token 4 = word227a4
+Thread 24 > token 5 = word227a5
+Thread 24 > token 6 = word227a6
+Thread 24 > token 7 = word227a7
+Thread 24 > token 8 = word227a8
+Thread 19 > token 11 = word218a11
+Thread 19 > token 12 = word
+Thread 19 > After tokenizing, my line = word218a0
+Thread 19 > line 51 = word223a0 word223a1 word223a2 word223a3 word223a4 word223a5 word223a6 word223a7 word223a8 word223a9 word223a10 word223a11 wordThread 19 > token 0 = word223a0
+Thread 19 > token 1 = word223a1
+Thread 19 > token 2 = word223a2
+Thread 19 > token 3 = word223a3
+Thread 19 > token 4 = word223a4
+Thread 19 > token 5 = word223a5
+Thread 19 > token 6 = word223a6
+Thread 19 > token 7 = word223a7
+Thread 19 > token 8 = word223a8
+Thread 19 > token 9 = word223a9
+Thread 19 > token 10 = word223a10
+Thread 19 > token 11 = word223a11
+Thread 19 > token 12 = word
+Thread 19 > After tokenizing, my line = word223a0
+Thread 24 > token 9 = word227a9
+Thread 24 > token 10 = word227a10
+Thread 24 > After tokenizing, my line = word227a0
+total time:0.002836

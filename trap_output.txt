@@ -1,0 +1,140 @@
+./trap_busy 2
+Enter a, b, and n
+0 10 1000000000
+total time:1.857973
+total clock ticks: 3692148 and time: 3.692148
+the result is:  333.333333
+
+./trap_busy 5
+Enter a, b, and n
+0 10 1000000000
+total time:0.783712
+total clock ticks: 3910510 and time: 3.910510
+the result is:  333.333333
+
+./trap_busy 6
+Enter a, b, and n
+0 10 1000000008
+total time:0.686227
+total clock ticks: 4042779 and time: 4.042779
+the result is:  333.333333
+
+./trap_busy 12
+Enter a, b, and n
+0 10 1000000008
+total time:0.579596
+total clock ticks: 6877298 and time: 6.877298
+the result is:  333.333333
+
+
+./trap_busy 16
+Enter a, b, and n
+0 10 1000000000
+total time:0.693695
+total clock ticks: 8225486 and time: 8.225486
+the result is:  333.333333
+
+./trap_busy 32
+Enter a, b, and n
+0 10 1000000000
+total time:0.716385
+total clock ticks: 8551535 and time: 8.551535
+the result is:  333.333333
+
+./trap_mutex 2
+Enter a, b, and n
+0 10 1000000000
+total time:1.886850
+total clock ticks: 3763872 and time: 3.763872
+the result is:  333.333333
+
+./trap_mutex 4
+Enter a, b, and n
+0 10 1000000000
+total time:0.980380
+total clock ticks: 3906434 and time: 3.906434
+the result is:  333.333333
+
+./trap_mutex 5
+Enter a, b, and n
+0 10 1000000000
+total time:0.782477
+total clock ticks: 3902456 and time: 3.902456
+the result is:  333.333333
+
+./trap_mutex 6
+Enter a, b, and n
+0 10 1000000008
+total time:0.655440
+total clock ticks: 3906358 and time: 3.906358
+the result is:  333.333333
+
+./trap_mutex 12
+Enter a, b, and n
+0 10 1000000008
+total time:0.584912
+total clock ticks: 6917922 and time: 6.917922
+the result is:  333.333333
+
+./trap_mutex 16
+Enter a, b, and n
+0 10 1000000000
+total time:0.627971
+total clock ticks: 6747688 and time: 6.747688
+the result is:  333.333333
+
+./trap_mutex 32
+Enter a, b, and n
+0 10 1000000000
+total time:0.607780
+total clock ticks: 6902856 and time: 6.902856
+the result is:  333.333333
+
+./trap_sema 2
+Enter a, b, and n
+0 10 1000000000
+total time:1.884787
+total clock ticks: 3707773 and time: 3.707773
+the result is:  333.333333
+
+./trap_sema 4
+Enter a, b, and n
+0 10 1000000000
+total time:0.980334
+total clock ticks: 3904251 and time: 3.904251
+the result is:  333.333333
+
+./trap_sema 5
+Enter a, b, and n
+0 10 1000000000
+total time:0.790450
+total clock ticks: 3899695 and time: 3.899695
+the result is:  333.333333
+
+./trap_sema 6
+Enter a, b, and n
+0 10 1000000008
+total time:0.652989
+total clock ticks: 3898102 and time: 3.898102
+the result is:  333.333333
+
+./trap_sema 12
+Enter a, b, and n
+0 10 1000000008
+total time:0.576857
+total clock ticks: 6836729 and time: 6.836729
+the result is:  333.333333
+
+./trap_sema 16
+Enter a, b, and n
+0 10 1000000000
+total time:0.637292
+total clock ticks: 6643889 and time: 6.643889
+the result is:  333.333333
+
+./trap_sema 32
+Enter a, b, and n
+0 10 1000000000
+total time:0.578592
+total clock ticks: 6836893 and time: 6.836893
+the result is:  333.333333
