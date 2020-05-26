@@ -9,4 +9,4 @@ The second part of the project involved creating producers and consumers. The pr
 
 To compile "$ gcc <file_name>.c -o <file_name> -fopenmp" 
 
-The function is hardcoded so to run use: ./<file_name> <number of threads>
+The function is hardcoded so to run use: "$ ./<file_name> <number of threads>"
